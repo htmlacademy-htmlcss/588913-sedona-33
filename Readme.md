@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Михаил Грозов](https://up.htmlacademy.ru/htmlcss/33/user/588913).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Дроганов](https://htmlacademy.ru/profile/dmdragon).
 
 ---
 
